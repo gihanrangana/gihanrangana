@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm an ambitious and passionate **Full-time Software Engineer** with **5+ years** of professional experience. I thrive on solving complex problems and delivering high-quality solutions. I'm in the deployment phase of my career, constantly pushing boundaries and collaborating with teams that challenge and inspire me.
+I'm an ambitious and passionate **Full-time Software Engineer** with **8+ years** of professional experience. I thrive on solving complex problems and delivering high-quality solutions. I'm in the deployment phase of my career, constantly pushing boundaries and collaborating with teams that challenge and inspire me.
 
 **Core Values:** Problem-solving | Innovation | Clean Code | Team Collaboration
 
